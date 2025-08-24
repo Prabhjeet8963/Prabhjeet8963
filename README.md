@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="right">
-  <img src="WhatsApp-Image.jpg" alt="Coding Mood" width="300" />
+  <img src="Images/Profile.jpg "  width="300" />
 </p>
 
 # 💫 About Me:
@@ -13,7 +13,7 @@ Looking to collaborate on: **Python-friendly open-source projects**, **data-cent
 
 <!-- Workspace GIF on right side -->
 <p align="right">
-  <img src="phone-on.gif" alt="Workspace Vibes" width="250"/>
+  <img src="Images/phone-on.gif" alt="Workspace Vibes" width="250"/>
 </p>
 
 ---
