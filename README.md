@@ -1,7 +1,5 @@
-<!-- Profile Banner -->
 
-
-# 💫 About Me:
+##Me💫:
 <table>
 <tr>
 <td>
@@ -21,19 +19,12 @@
 </table>
 
 ---
+# Tech Stack
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prabhjeet_kalra) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-prabhjeet) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhjeet.13286@stu.upes.ac.in)
+<img src="Images/phone-on.gif" alt="Workspace Vibes" width="230" height="200" align="left" style="margin-right:100px;"/>
 
----
 
-# 💻 Tech Stack
-
-<img src="Images/phone-on.gif" alt="Workspace Vibes" width="230" height="200" align="left" style="margin-right:40px; "/>
-
-**Languages & Tools:**  
+**Languages & Tools:**  <br></br>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -58,3 +49,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhjeet8963&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prabhjeet_kalra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-prabhjeet) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhjeet.13286@stu.upes.ac.in)
+
+---
+
